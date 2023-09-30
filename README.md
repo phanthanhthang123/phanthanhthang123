@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phanthanhthang123
-- 👀 I’m interested in ...
+- 👀 I’m interested in C/C++ , htmt,css,java,js language
 - 🌱 I’m currently learning C/C++ language
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me zalo: 0967987730
