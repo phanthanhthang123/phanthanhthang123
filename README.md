@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phanthanhthang123
+- 👋 Hi, I’m Phan Thanh Thắng
 - 👀 I’m interested in C/C++ , htmt,css,java,js language
 - 🌱 I’m currently learning C/C++ language
 - 💞️ I’m looking to collaborate on github
